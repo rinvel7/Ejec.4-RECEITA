@@ -1,0 +1,38 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 1.5;
+    padding-left: 21px;
+    padding-right: 56px;
+}
+
+.title {
+    font-size: 89px;
+    font-weight: 884;
+    line-height: 79px;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1;
+}
+
+.title1 {
+    font-size: 34px;
+    font-weight: 884;
+}
+
+.texto {
+    font-size: 21px;
+    font-weight: 700;
+
+}
+    
+.line {
+    border: 5px solid #999999;
+    opacity: 1;
+    width: 76%;
+    text-align: left;
+    margin-left: 28px;
+  }
+
+.conteudo {
+    padding-left: 80px;
+}
